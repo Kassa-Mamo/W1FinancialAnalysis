@@ -4,3 +4,85 @@
 2024-12-17 12:11:23,077 - INFO - Outliers detected in Low: 452
 2024-12-17 12:11:23,078 - INFO - Outliers detected in Close: 453
 2024-12-17 12:11:23,079 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\AAPL_historical_data.csv
+2024-12-17 12:11:24,397 - INFO - Outliers detected in Volume: 145
+2024-12-17 12:11:24,399 - INFO - Outliers detected in Open: 6
+2024-12-17 12:11:24,401 - INFO - Outliers detected in High: 1
+2024-12-17 12:11:24,403 - INFO - Outliers detected in Low: 5
+2024-12-17 12:11:24,404 - INFO - Outliers detected in Close: 5
+2024-12-17 12:11:24,404 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\AMZN_historical_data.csv
+2024-12-17 12:11:24,969 - INFO - Outliers detected in Volume: 106
+2024-12-17 12:11:24,970 - INFO - Outliers detected in Open: 44
+2024-12-17 12:11:24,971 - INFO - Outliers detected in High: 42
+2024-12-17 12:11:24,972 - INFO - Outliers detected in Low: 43
+2024-12-17 12:11:24,973 - INFO - Outliers detected in Close: 41
+2024-12-17 12:11:24,973 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\GOOG_historical_data.csv
+2024-12-17 12:11:25,404 - INFO - Outliers detected in Volume: 51
+2024-12-17 12:11:25,405 - INFO - Outliers detected in Open: 22
+2024-12-17 12:11:25,406 - INFO - Outliers detected in High: 20
+2024-12-17 12:11:25,407 - INFO - Outliers detected in Low: 23
+2024-12-17 12:11:25,407 - INFO - Outliers detected in Close: 24
+2024-12-17 12:11:25,408 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\META_historical_data.csv
+2024-12-17 12:11:25,892 - INFO - Outliers detected in Volume: 130
+2024-12-17 12:11:25,893 - INFO - Outliers detected in Open: 295
+2024-12-17 12:11:25,894 - INFO - Outliers detected in High: 297
+2024-12-17 12:11:25,895 - INFO - Outliers detected in Low: 293
+2024-12-17 12:11:25,896 - INFO - Outliers detected in Close: 289
+2024-12-17 12:11:25,896 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\MSFT_historical_data.csv
+2024-12-17 12:11:26,291 - INFO - Outliers detected in Volume: 107
+2024-12-17 12:11:26,292 - INFO - Outliers detected in Open: 137
+2024-12-17 12:11:26,293 - INFO - Outliers detected in High: 136
+2024-12-17 12:11:26,294 - INFO - Outliers detected in Low: 139
+2024-12-17 12:11:26,295 - INFO - Outliers detected in Close: 138
+2024-12-17 12:11:26,295 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\NVDA_historical_data.csv
+2024-12-17 12:11:26,729 - INFO - Outliers detected in Volume: 72
+2024-12-17 12:11:26,730 - INFO - Outliers detected in Open: 10
+2024-12-17 12:11:26,731 - INFO - Outliers detected in High: 10
+2024-12-17 12:11:26,731 - INFO - Outliers detected in Low: 8
+2024-12-17 12:11:26,733 - INFO - Outliers detected in Close: 9
+2024-12-17 12:11:26,733 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\TSLA_historical_data.csv
+2024-12-17 12:11:31,850 - ERROR - Missing columns in C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\raw_analyst_ratings.csv: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-12-17 12:11:31,875 - WARNING - Skipping file due to missing columns or errors: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\raw_analyst_ratings.csv
+2024-12-17 12:18:57,235 - INFO - Outliers detected in Volume: 208
+2024-12-17 12:18:57,237 - INFO - Outliers detected in Open: 452
+2024-12-17 12:18:57,239 - INFO - Outliers detected in High: 462
+2024-12-17 12:18:57,240 - INFO - Outliers detected in Low: 452
+2024-12-17 12:18:57,241 - INFO - Outliers detected in Close: 453
+2024-12-17 12:18:57,242 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\AAPL_historical_data.csv
+2024-12-17 12:18:57,637 - INFO - Outliers detected in Volume: 145
+2024-12-17 12:18:57,639 - INFO - Outliers detected in Open: 6
+2024-12-17 12:18:57,639 - INFO - Outliers detected in High: 1
+2024-12-17 12:18:57,640 - INFO - Outliers detected in Low: 5
+2024-12-17 12:18:57,641 - INFO - Outliers detected in Close: 5
+2024-12-17 12:18:57,641 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\AMZN_historical_data.csv
+2024-12-17 12:18:58,074 - INFO - Outliers detected in Volume: 106
+2024-12-17 12:18:58,075 - INFO - Outliers detected in Open: 44
+2024-12-17 12:18:58,076 - INFO - Outliers detected in High: 42
+2024-12-17 12:18:58,077 - INFO - Outliers detected in Low: 43
+2024-12-17 12:18:58,077 - INFO - Outliers detected in Close: 41
+2024-12-17 12:18:58,078 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\GOOG_historical_data.csv
+2024-12-17 12:18:58,530 - INFO - Outliers detected in Volume: 51
+2024-12-17 12:18:58,531 - INFO - Outliers detected in Open: 22
+2024-12-17 12:18:58,533 - INFO - Outliers detected in High: 20
+2024-12-17 12:18:58,535 - INFO - Outliers detected in Low: 23
+2024-12-17 12:18:58,536 - INFO - Outliers detected in Close: 24
+2024-12-17 12:18:58,536 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\META_historical_data.csv
+2024-12-17 12:18:58,912 - INFO - Outliers detected in Volume: 130
+2024-12-17 12:18:58,913 - INFO - Outliers detected in Open: 295
+2024-12-17 12:18:58,914 - INFO - Outliers detected in High: 297
+2024-12-17 12:18:58,915 - INFO - Outliers detected in Low: 293
+2024-12-17 12:18:58,916 - INFO - Outliers detected in Close: 289
+2024-12-17 12:18:58,916 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\MSFT_historical_data.csv
+2024-12-17 12:18:59,309 - INFO - Outliers detected in Volume: 107
+2024-12-17 12:18:59,310 - INFO - Outliers detected in Open: 137
+2024-12-17 12:18:59,312 - INFO - Outliers detected in High: 136
+2024-12-17 12:18:59,314 - INFO - Outliers detected in Low: 139
+2024-12-17 12:18:59,316 - INFO - Outliers detected in Close: 138
+2024-12-17 12:18:59,316 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\NVDA_historical_data.csv
+2024-12-17 12:18:59,670 - INFO - Outliers detected in Volume: 72
+2024-12-17 12:18:59,671 - INFO - Outliers detected in Open: 10
+2024-12-17 12:18:59,671 - INFO - Outliers detected in High: 10
+2024-12-17 12:18:59,672 - INFO - Outliers detected in Low: 8
+2024-12-17 12:18:59,673 - INFO - Outliers detected in Close: 9
+2024-12-17 12:18:59,673 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\TSLA_historical_data.csv
+2024-12-17 12:19:01,718 - ERROR - Missing columns in C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\raw_analyst_ratings.csv: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-12-17 12:19:01,748 - WARNING - Skipping file due to missing columns or errors: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\raw_analyst_ratings.csv
