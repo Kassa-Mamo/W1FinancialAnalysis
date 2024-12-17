@@ -1,3 +1,15 @@
+# W1 Financial Analysis
+
+This project analyzes stock prices and sentiment from financial news articles. It correlates stock movements with sentiment analysis to provide actionable investment insights.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Kassa-Mamo/W1FinancialAnalysis
+
+
+
 # W1 Financial Analysis Project
 
 # Project Title: Comprehensive Financial Analysis and Stock Price Sentiment Correlation
