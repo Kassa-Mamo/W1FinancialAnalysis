@@ -1,0 +1,6 @@
+2024-12-17 12:11:23,072 - INFO - Outliers detected in Volume: 208
+2024-12-17 12:11:23,074 - INFO - Outliers detected in Open: 452
+2024-12-17 12:11:23,075 - INFO - Outliers detected in High: 462
+2024-12-17 12:11:23,077 - INFO - Outliers detected in Low: 452
+2024-12-17 12:11:23,078 - INFO - Outliers detected in Close: 453
+2024-12-17 12:11:23,079 - INFO - Processing file: C:\Users\user\Desktop\Week 1\W1FinancialAnalysis\data\yfinance_data\AAPL_historical_data.csv
